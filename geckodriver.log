@@ -5610,3 +5610,70 @@ JavaScript warning: https://www.gstatic.com/recaptcha/releases/Ai7lOI0zKMDPHxlv6
 r</Q</S.L.onmessage@https://www.gstatic.com/recaptcha/releases/Ai7lOI0zKMDPHxlv62g7oMoJ/recaptcha__en.js:148:114
 
 Dynamically enable window occlusion 1
+1695632954977	geckodriver	INFO	Listening on 127.0.0.1:62200
+1695632958033	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "62201" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\asus\\AppData\\Local\\Temp\\rust_mozprofileVWRkXB"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1695632958825	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1695632959157	Marionette	INFO	Listening on port 62210
+WebDriver BiDi listening on ws://127.0.0.1:62201
+Read port: 62210
+1695632959656	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+DevTools listening on ws://127.0.0.1:62201/devtools/browser/bff16a8a-f2a5-4bfe-b1df-8cd08c6d6cd9
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://erp.aktu.ac.in."
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+console.error: (new TypeError("lazy.AsyncShutdown.profileBeforeChange is undefined", "resource://services-settings/Database.sys.mjs", 593))
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://erp.aktu.ac.in."
+JavaScript warning: https://www.gstatic.com/recaptcha/releases/Ai7lOI0zKMDPHxlv62g7oMoJ/recaptcha__en.js line 346 > eval line 1 > eval, line 3356: Script terminated by timeout at:
+b4<@https://www.gstatic.com/recaptcha/releases/Ai7lOI0zKMDPHxlv62g7oMoJ/recaptcha__en.js line 346 > eval line 1 > eval:3356:12305
+@https://www.gstatic.com/recaptcha/releases/Ai7lOI0zKMDPHxlv62g7oMoJ/recaptcha__en.js line 346 > eval line 1 > eval:3356:12307
+@https://www.gstatic.com/recaptcha/releases/Ai7lOI0zKMDPHxlv62g7oMoJ/recaptcha__en.js line 346 > eval line 1 > eval:3356:15482
+@https://www.gstatic.com/recaptcha/releases/Ai7lOI0zKMDPHxlv62g7oMoJ/recaptcha__en.js line 346 > eval:1:360
+@https://www.gstatic.com/recaptcha/releases/Ai7lOI0zKMDPHxlv62g7oMoJ/recaptcha__en.js line 346 > eval:1:16032
+v<@https://www.gstatic.com/recaptcha/releases/Ai7lOI0zKMDPHxlv62g7oMoJ/recaptcha__en.js:346:287
+v$.prototype.load</this.V<@https://www.gstatic.com/recaptcha/releases/Ai7lOI0zKMDPHxlv62g7oMoJ/recaptcha__en.js:731:287
+v$.prototype.load<@https://www.gstatic.com/recaptcha/releases/Ai7lOI0zKMDPHxlv62g7oMoJ/recaptcha__en.js:731:258
+m<@https://www.gstatic.com/recaptcha/releases/Ai7lOI0zKMDPHxlv62g7oMoJ/recaptcha__en.js:270:110
+X</S/<@https://www.gstatic.com/recaptcha/releases/Ai7lOI0zKMDPHxlv62g7oMoJ/recaptcha__en.js:23:424
+V</S.L</S.l<@https://www.gstatic.com/recaptcha/releases/Ai7lOI0zKMDPHxlv62g7oMoJ/recaptcha__en.js:47:479
+c<@https://www.gstatic.com/recaptcha/releases/Ai7lOI0zKMDPHxlv62g7oMoJ/recaptcha__en.js:449:54
+G<@https://www.gstatic.com/recaptcha/releases/Ai7lOI0zKMDPHxlv62g7oMoJ/recaptcha__en.js:482:127
+im.prototype.N@https://www.gstatic.com/recaptcha/releases/Ai7lOI0zKMDPHxlv62g7oMoJ/recaptcha__en.js:648:307
+r<@https://www.gstatic.com/recaptcha/releases/Ai7lOI0zKMDPHxlv62g7oMoJ/recaptcha__en.js:160:271
+
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+console.error: (new TypeError("lazy.AsyncShutdown.profileBeforeChange is undefined", "resource://services-settings/Database.sys.mjs", 593))
+JavaScript warning: https://www.gstatic.com/recaptcha/releases/Ai7lOI0zKMDPHxlv62g7oMoJ/recaptcha__en.js, line 389: Script terminated by timeout at:
+v<@https://www.gstatic.com/recaptcha/releases/Ai7lOI0zKMDPHxlv62g7oMoJ/recaptcha__en.js:389:33
+m<@https://www.gstatic.com/recaptcha/releases/Ai7lOI0zKMDPHxlv62g7oMoJ/recaptcha__en.js:239:407
+V<@https://www.gstatic.com/recaptcha/releases/Ai7lOI0zKMDPHxlv62g7oMoJ/recaptcha__en.js:59:164
+B</Q<@https://www.gstatic.com/recaptcha/releases/Ai7lOI0zKMDPHxlv62g7oMoJ/recaptcha__en.js:330:24
+V<@https://www.gstatic.com/recaptcha/releases/Ai7lOI0zKMDPHxlv62g7oMoJ/recaptcha__en.js:82:370
+G</this.next@https://www.gstatic.com/recaptcha/releases/Ai7lOI0zKMDPHxlv62g7oMoJ/recaptcha__en.js:475:164
+B</l<@https://www.gstatic.com/recaptcha/releases/Ai7lOI0zKMDPHxlv62g7oMoJ/recaptcha__en.js:278:449
+B<@https://www.gstatic.com/recaptcha/releases/Ai7lOI0zKMDPHxlv62g7oMoJ/recaptcha__en.js:278:342
+v<@https://www.gstatic.com/recaptcha/releases/Ai7lOI0zKMDPHxlv62g7oMoJ/recaptcha__en.js:399:424
+B<@https://www.gstatic.com/recaptcha/releases/Ai7lOI0zKMDPHxlv62g7oMoJ/recaptcha__en.js:329:472
+B</k<@https://www.gstatic.com/recaptcha/releases/Ai7lOI0zKMDPHxlv62g7oMoJ/recaptcha__en.js:292:19
+V<@https://www.gstatic.com/recaptcha/releases/Ai7lOI0zKMDPHxlv62g7oMoJ/recaptcha__en.js:82:370
+G</this.next@https://www.gstatic.com/recaptcha/releases/Ai7lOI0zKMDPHxlv62g7oMoJ/recaptcha__en.js:475:164
+B</l<@https://www.gstatic.com/recaptcha/releases/Ai7lOI0zKMDPHxlv62g7oMoJ/recaptcha__en.js:278:449
+B<@https://www.gstatic.com/recaptcha/releases/Ai7lOI0zKMDPHxlv62g7oMoJ/recaptcha__en.js:278:342
+v<@https://www.gstatic.com/recaptcha/releases/Ai7lOI0zKMDPHxlv62g7oMoJ/recaptcha__en.js:399:424
+B<@https://www.gstatic.com/recaptcha/releases/Ai7lOI0zKMDPHxlv62g7oMoJ/recaptcha__en.js:291:433
+c</<@https://www.gstatic.com/recaptcha/releases/Ai7lOI0zKMDPHxlv62g7oMoJ/recaptcha__en.js:461:324
+ew@https://www.gstatic.com/recaptcha/releases/Ai7lOI0zKMDPHxlv62g7oMoJ/recaptcha__en.js:641:304
+W@https://www.gstatic.com/recaptcha/releases/Ai7lOI0zKMDPHxlv62g7oMoJ/recaptcha__en.js:480:30
+Z@https://www.gstatic.com/recaptcha/releases/Ai7lOI0zKMDPHxlv62g7oMoJ/recaptcha__en.js:366:409
+
+JavaScript warning: https://www.googletagmanager.com/gtag/js?id=G-P8H34B230T&cx=c&_slc=1, line 452: Script terminated by timeout at:
+ba.qh@https://www.googletagmanager.com/gtag/js?id=G-P8H34B230T&cx=c&_slc=1:452:42
+get@https://www.googletagmanager.com/gtag/js?id=G-P8H34B230T&cx=c&_slc=1:450:119
+stop@https://www.googletagmanager.com/gtag/js?id=G-P8H34B230T&cx=c&_slc=1:450:87
+ba.zk/c/<@https://www.googletagmanager.com/gtag/js?id=G-P8H34B230T&cx=c&_slc=1:450:412
+
+1695633219571	Marionette	INFO	Stopped listening on port 62210
+Dynamically enable window occlusion 1
